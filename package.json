@@ -1,0 +1,26 @@
+{
+  "name": "test-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banlon-jones/unit-testing-exercise.git"
+  },
+  "author": "banlon jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banlon-jones/unit-testing-exercise/issues"
+  },
+  "homepage": "https://github.com/banlon-jones/unit-testing-exercise#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "babel-jest": "^27.4.6"
+  }
+}
